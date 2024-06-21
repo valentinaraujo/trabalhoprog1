@@ -37,4 +37,5 @@ plt.ylabel('População')
 plt.xticks(rotation=45)
 st.pyplot(plt)
 
+$ streamlit run streamlit_app.py
 
